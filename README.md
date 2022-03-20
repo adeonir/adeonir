@@ -2,13 +2,13 @@
 
 ### About me
 
-- Working as a <strong>Frontend Developer</strong> at [FinBits](https://finbits.com.br)
+- Working as a <strong>Front-End Developer</strong> at [FinBits](https://finbits.com.br)
 - Always looking forward to learn more about CSS, Javascript, tests and design systems
 
 ### Skills
 
 ![HTML](https://img.shields.io/badge/-HTML5-39404b?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-39404b?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-39404b?style=flat&logo=CSS3&logoColor=1572b6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-39404b?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-39404b?style=flat&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-39404b?style=flat&logo=git)
@@ -22,9 +22,8 @@
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-39404b?style=flat&logo=testinglibrary)
 ![Cypress](https://img.shields.io/badge/-Cypress-39404b?style=flat&logo=cypress)
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-39404b?style=flat&logo=graphql&logoColor=E10098)
+![GraphQL](https://img.shields.io/badge/-GraphQL-39404b?style=flat&logo=graphql&logoColor=e10098)
 ![GraphCMS](https://img.shields.io/badge/-GraphCMS-39404b?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAOCAYAAAD9lDaoAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEISURBVHgBdVFLTsMwEH0TxYmdLHAlUmeHcwM4AYGLVJygiAtQTkB7ATgCnICyZMeWFWt2ZFOp5ZNhihS1SZuRLI383rz37AF6SulsFBt3ue6DPhKBCgZutc59uINaa6OvaAym6+aqRRL5cb3iiehYBleiZjd2Ihkl7lXkpwJUNdMZMWbN8D9J4bcE41hIsyRenfwsP563HVrBmelxsVC+G7OVKSC+Ryhz3yh6laSOxPIBZYm9JGbMJfB5GpsrvLwVTHTaYsrX2CzLpBkMomQ4UWb4GRlXS3+3BuG9R5p6kjVcNKDS7inU+cYz1IelMm4uIMt5Vzofofs6QuiB+gAc3CR6Oa2kuqQ/j2RFPwTk6pwAAAAASUVORK5CYII=)
-![Strapi](https://img.shields.io/badge/-Strapi-39404b?style=flat&logo=strapi)
 ![Apollo Client](https://img.shields.io/badge/-Apollo%20Client-39404b?style=flat&logo=apollographql&logoColor=007acc)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-39404b?style=flat&logo=postgresql&logoColor=3d9fee)
 
@@ -37,11 +36,12 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-39404b?style=flat&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-39404b?style=flat&logo=bitbucket&logoColor=3865a6)
 
-![Trello](https://img.shields.io/badge/-Trello-39404b?style=flat&logo=trello&logoColor=0052CC)
+![Trello](https://img.shields.io/badge/-Trello-39404b?style=flat&logo=trello&logoColor=0052cc)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-39404b?style=flat&logo=insomnia)
 
-![Figma](https://img.shields.io/badge/-Figma-39404b?style=flat&logo=figma&logoColor=F24E1E)
-![Affinity](https://img.shields.io/badge/-Affinity-39404b?style=flat&logo=affinity)
+![Figma](https://img.shields.io/badge/-Figma-39404b?style=flat&logo=figma&logoColor=c7b9ff)
+![Affinity](https://img.shields.io/badge/-Affinity-39404b?style=flat&logo=affinity&logoColor=e74c3c)
+![Adobe](https://img.shields.io/badge/-Adobe-39404b?style=flat&logo=adobe&logoColor=f50e01)
 
 ### Get in touch
 
