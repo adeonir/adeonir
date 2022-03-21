@@ -4,6 +4,7 @@
 
 - Working as a <strong>Front-End Developer</strong> at [FinBits](https://finbits.com.br)
 - Always looking forward to learn more about CSS, Javascript, tests and design systems
+- I also have some studies and other stuff on my [AdeonirLabs](https://github.com/adeonirlabs) organization
 
 ### Skills
 
@@ -30,7 +31,8 @@
 ### Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-39404b?style=flat&logo=visual-studio-code&logoColor=007acc)
-![iTerm](https://img.shields.io/badge/-iTerm-39404b?style=flat&logo=windowsterminal)
+![iTerm](https://img.shields.io/badge/-iTerm-39404b?style=flat&logo=windowsterminal&logoColor=94a3b8)
+![Vim](https://img.shields.io/badge/-iTerm-39404b?style=flat&logo=vim&logoColor=2b992b)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-39404b?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-39404b?style=flat&logo=gitlab)
@@ -41,7 +43,6 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-39404b?style=flat&logo=figma&logoColor=c7b9ff)
 ![Affinity](https://img.shields.io/badge/-Affinity-39404b?style=flat&logo=affinity&logoColor=e74c3c)
-![Adobe](https://img.shields.io/badge/-Adobe-39404b?style=flat&logo=adobe&logoColor=f50e01)
 
 ### Get in touch
 
