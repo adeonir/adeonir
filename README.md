@@ -2,8 +2,10 @@
 
 ### About me
 
+- Passionated web developer focused on frontend and design
+- Always looking forward to learn more about UI, CSS, Javascript, Tests and Design Systems
 - Working as a <strong>Front-End Developer</strong> at [FinBits](https://finbits.com.br)
-- Always looking forward to learn more about CSS, Javascript, tests and design systems
+- Sometimes I work as UI Engineer on free hours
 - I also have some studies and other stuff on my [AdeonirLabs](https://github.com/adeonirlabs) organization
 
 ### Skills
