@@ -18,9 +18,12 @@
 
 ![React](https://img.shields.io/badge/-React-39404b?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-39404b?style=flat&logo=next.js)
+![Remix](https://img.shields.io/badge/-Remix-39404b?style=flat&logo=remix)
+
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-39404b?style=flat&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-39404b?style=flat&logo=tailwindcss)
 ![Storybook](https://img.shields.io/badge/-Storybook-39404b?style=flat&logo=storybook)
+
 ![Jest](https://img.shields.io/badge/-Jest-39404b?style=flat&logo=jest)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-39404b?style=flat&logo=testinglibrary)
 ![Cypress](https://img.shields.io/badge/-Cypress-39404b?style=flat&logo=cypress)
@@ -34,7 +37,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-39404b?style=flat&logo=visual-studio-code&logoColor=007acc)
 ![iTerm](https://img.shields.io/badge/-iTerm-39404b?style=flat&logo=windowsterminal&logoColor=94a3b8)
-![Vim](https://img.shields.io/badge/-iTerm-39404b?style=flat&logo=vim&logoColor=2b992b)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-39404b?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-39404b?style=flat&logo=gitlab)
