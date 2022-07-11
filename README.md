@@ -4,7 +4,7 @@
 
 - Passionated web developer focused on frontend and design
 - Always looking forward to learn more about UI, CSS, Javascript, Tests and Design Systems
-- Working as a <strong>Front-End Developer</strong> at [FinBits](https://finbits.com.br)
+- Working as a <strong>Frontend Developer</strong> at [Joyjet](https://joyjet.com)
 - Sometimes I work as UI Engineer on free hours
 - I also have some studies and other stuff on my [AdeonirLabs](https://github.com/adeonirlabs) organization
 
